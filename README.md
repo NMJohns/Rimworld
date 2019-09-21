@@ -2,8 +2,11 @@
 
 Essential Vanilla Friendly QOL
 https://steamcommunity.com/sharedfiles/filedetails/?id=1345928533
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=730936602
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1356838246
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1346064449
 https://steamcommunity.com/sharedfiles/filedetails/?id=1279012058
 https://steamcommunity.com/sharedfiles/filedetails/?id=1307316672
@@ -95,25 +98,42 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=839005762
 https://steamcommunity.com/sharedfiles/filedetails/?id=1552146295
 https://steamcommunity.com/sharedfiles/filedetails/?id=1216999901 (If you don't want this, don't pick up the other Giddy Up stuff. If You DO want this, definitely pick up the other Giddy up stuff. If you do like the idea of the Giddy Up stuff, let me know and I'll grab the rest of the links for you)
 https://steamcommunity.com/sharedfiles/filedetails/?id=1541438907
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1743423205
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1201382956
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1386412863
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1548649032
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1767214408
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=850429707
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1742245843
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1127530465
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1635565299
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1113137502
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1541721856
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1055485938
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1136958577
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1500981707
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1204502413
 
 Patches (These go at the bottom of the load order. Don't pick up the patch if you didn't grab both the mods the patch is about)
 https://steamcommunity.com/sharedfiles/filedetails/?id=1658356618
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1257032899
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=1590579367
 
 Avoid
